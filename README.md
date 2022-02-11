@@ -35,9 +35,6 @@ A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was
 
 ### Geckolot
 
-<img src="![153009120-aeb54a6e-a5ba-48bc-9e63-17574a7d7fa1](https://user-images.githubusercontent.com/74375728/153621360-6e85d7a2-f78d-4035-aa1b-836277bc4494.png)
-">
-
 A 2-player plateformer game developed as part of the <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> where you play either as an enthusiastic attractive Axolotl or a shy repulsive Gecko, following the theme of **Duality**.
 
 I was the **project manager** and **lead developper** during this 48h jam. You can play our game <a href="https://mathieu-coutant.itch.io/geckolot">**here**</a>

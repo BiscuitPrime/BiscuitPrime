@@ -7,6 +7,7 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 <br>
 
 ## My hobbies 🍰
+
  🎮 - Creating games that are fun to play is what I thrive for.
  
  🧊 - I am the president of Télécom Sudparis' <a href="https://www.youtube.com/channel/UCT-08PN1bcBDCU1GrhAOTGw">**The RIG**</a> (3D modelisation club), and quite enjoy making 3D art and assets.
@@ -22,3 +23,12 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
  🟥 <a href="https://itch.io/jam/unijam2021">**Unijam 2021**</a> : <a href="https://biscuitprime.itch.io/brocante-coeurs-brises">*Brocante & Coeurs Brisés*</a>
  
  🟧 <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> : <a href="https://github.com/Hugo-Carbiener/Geckolot">*Geckolot*</a>
+<br>
+<br>
+
+## Links 🥞
+
+My <a href="https://biscuitprime.github.io/">website</a>
+My <a href="https://www.linkedin.com/in/nomico-henri-131241202/">LinkedIn</a> page
+My <a href="https://biscuitprime.itch.io/">itch.io</a> page
+

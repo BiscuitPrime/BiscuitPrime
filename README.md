@@ -16,19 +16,37 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 <br>
 <br>
 
-## Game Jams 🥮
+## Game Jams 🧁
+
+ 🟧 <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> : <a href="https://github.com/Hugo-Carbiener/Geckolot">*Geckolot*</a> | **Project Manager & Lead Developer**
  
- 🟦 <a href="https://itch.io/jam/unijam2020">**Unijam 2020**</a> : <a href="https://senydesu.itch.io/fly-me-to-the-moon">*Fly Me to the Moon*</a>
+ 🟥 <a href="https://itch.io/jam/unijam2021">**Unijam 2021**</a> : <a href="https://biscuitprime.itch.io/brocante-coeurs-brises">*Brocante & Coeurs Brisés*</a> | **Project Manager & Lead 3D Artist**
  
- 🟥 <a href="https://itch.io/jam/unijam2021">**Unijam 2021**</a> : <a href="https://biscuitprime.itch.io/brocante-coeurs-brises">*Brocante & Coeurs Brisés*</a>
- 
- 🟧 <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> : <a href="https://github.com/Hugo-Carbiener/Geckolot">*Geckolot*</a>
+ 🟦 <a href="https://itch.io/jam/unijam2020">**Unijam 2020**</a> : <a href="https://senydesu.itch.io/fly-me-to-the-moon">*Fly Me to the Moon*</a> | **Sound Designer & Graphist**
 <br>
 <br>
+
+## Projects 🥮
+
+### Tank A Faire 
+
+A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was the *3D Artist*. 
+*TO BE UPDATED, sorry* 😢
+
+### Geckolot
+
+<img src="![153009120-aeb54a6e-a5ba-48bc-9e63-17574a7d7fa1](https://user-images.githubusercontent.com/74375728/153621360-6e85d7a2-f78d-4035-aa1b-836277bc4494.png)
+">
+
+A 2-player plateformer game developed as part of the <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> where you play either as an enthusiastic attractive Axolotl or a shy repulsive Gecko, following the theme of **Duality**.
+
+I was the **project manager** and **lead developper** during this 48h jam. You can play our game <a href="https://mathieu-coutant.itch.io/geckolot">**here**</a>
 
 ## Links 🥞
 
-My <a href="https://biscuitprime.github.io/">website</a>
-My <a href="https://www.linkedin.com/in/nomico-henri-131241202/">LinkedIn</a> page
-My <a href="https://biscuitprime.itch.io/">itch.io</a> page
+<a href="https://biscuitprime.github.io/">Website</a>
+
+<a href="https://www.linkedin.com/in/nomico-henri-131241202/">LinkedIn</a>
+
+<a href="https://biscuitprime.itch.io/">Itch.io</a>
 

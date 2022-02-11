@@ -41,6 +41,8 @@ I was the **project manager** and **lead developper** during this 48h jam. You c
 
 ## Links 🥞
 
+<u>Mail</u> : henri.nomico@gmail.com
+
 <a href="https://biscuitprime.github.io/">Website</a>
 
 <a href="https://www.linkedin.com/in/nomico-henri-131241202/">LinkedIn</a>

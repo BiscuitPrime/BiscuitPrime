@@ -28,16 +28,33 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 
 ## Projects 🥮
 
-### Tank A Faire 
+
+### ⚔️ Tank A Faire 
 
 A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was the *3D Artist*. 
+
 *TO BE UPDATED, sorry* 😢
 
-### Geckolot
+
+### 🦎 Geckolot
 
 A 2-player plateformer game developed as part of the <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> where you play either as an enthusiastic attractive Axolotl or a shy repulsive Gecko, following the theme of **Duality**.
 
 I was the **project manager** and **lead developper** during this 48h jam. You can play our game <a href="https://mathieu-coutant.itch.io/geckolot">**here**</a>
+
+
+### 💰 Brocante & Coeurs Brisés
+
+
+### 🌙 Fly me to the moon
+
+
+### 🍬 Boris & la Chocolaterie
+
+A 2D-plateformer arcade game where you have to collect points to win.
+
+I was the **project manager** and **lead developper** during this project. You can see our game's itch.io page <a href="https://biscuitprime.itch.io/boris-la-chocolaterie">here</a>.
+
 
 ## Links 🥞
 

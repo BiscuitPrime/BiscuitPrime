@@ -45,6 +45,12 @@ I was the **project manager** and **lead developper** during this 48h jam. You c
 
 ### 💰 Brocante & Coeurs Brisés
 
+A game where you control an antique dealer trying to sell their inventory to a wide and quirky cast of characters. However, you are against the clock as your father is sick. Battle between your reputation and your greed as you uncover your clients' secrets !
+
+The game was made part of the **2022 UNIJAM**. Tweet from the organisator of the jam : <a href="https://twitter.com/ENSIIE/status/1462783335479062534">Tweet</a>
+
+I was the **project manager** and **lead 3D artist** during this project. You can see our game's itch.io page <a href="https://biscuitprime.itch.io/brocante-coeurs-brises">here</a>.
+
 
 ### 🌙 Fly me to the moon
 

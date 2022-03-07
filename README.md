@@ -27,7 +27,9 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 <br>
 
 ## Projects 🥮
+<br>
 
+## ===== Games 🎮 =====
 
 ### ⚔️ Tank A Faire 
 
@@ -67,7 +69,27 @@ A 2D scrolling game where you are the captain of a ship on its way to a safe hea
 The game was made part of the <a href="https://www.ensiie.fr/unijam-2020/">**2020 UNIJAM**</a>.
 
 I was the **sound designer** and a **graphist** during this 48h game jam. You can see our game's itch.io page <a href="https://senydesu.itch.io/fly-me-to-the-moon">here</a>.
+<br>
+<br>
 
+## ===== Others 💻 =====
+
+### 🛏️ Edredons & Dejeuners
+
+**"Edredons Et Dejeuners" (Quilts & Lunch)** is a **PHP project** realised as part of my studies at Télécom Sudparis. It is a mockup site of Bed&Breakfast's bookings.
+
+Created using **Symphony** as part of the class's instructions.
+You can view the github page of the site <a href="https://github.com/BiscuitPrime/Edredons-Et-Dejeuners">here</a> 
+
+
+### 🟪 Palette Finder
+
+**Palette Finder** is an android application developped as part of my studies in Télécom Sudparis. It uses the the <a href="http://colormind.io/api-access/">Color Mind API</a> to find a harmonised color palette, either random or with some parameters. You can even save the palettes !
+
+Created using **Android Studio**
+You can view the github page <a href="https://github.com/BiscuitPrime/Palette-Finder">here</a>
+<br>
+<br>
 
 ## Links 🥞
 

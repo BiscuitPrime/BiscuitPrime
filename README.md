@@ -37,12 +37,14 @@ A 3D top-down, 2-player arcade game where you play as a tank against your advers
 
 A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was the *3D Artist*. 
 
-I was the **lead 3D artist** during this project. You can play our game <a href="">here</a>.
+I was the **lead 3D artist** during this project. You can play our game <a href="">here</a>. You can view our game's github <a href="https://github.com/YelloowBlitz/TankAFaire">here</a>.
 
 *TO BE UPDATED, sorry* 😢
 
 
 ### 🦎 Geckolot
+
+![logo](https://user-images.githubusercontent.com/74375728/157636719-e784e7cd-ea56-473e-a393-a37fa64d5585.gif)
 
 A 2-player plateformer game developed as part of the <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> where you play either as an enthusiastic attractive Axolotl or a shy repulsive Gecko, following the theme of **Duality**.
 

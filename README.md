@@ -40,7 +40,8 @@ A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was
 I was the **lead 3D artist** during this project. You can play our game <a href="">here</a>. You can view our game's github <a href="https://github.com/YelloowBlitz/TankAFaire">here</a>.
 
 *TO BE UPDATED, sorry* 😢
-
+<br>
+<br>
 
 ### 🦎 Geckolot
 
@@ -49,7 +50,8 @@ I was the **lead 3D artist** during this project. You can play our game <a href=
 A 2-player plateformer game developed as part of the <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> where you play either as an enthusiastic attractive Axolotl or a shy repulsive Gecko, following the theme of **Duality**.
 
 I was the **project manager** and **lead developper** during this 48h jam. You can play our game <a href="https://mathieu-coutant.itch.io/geckolot">**here**</a>
-
+<br>
+<br>
 
 ### 💰 Brocante & Coeurs Brisés
 
@@ -59,7 +61,8 @@ The game was made part of the <a href="https://www.ensiie.fr/unijam-2021/">**202
 Tweet from the organisator of the jam : <a href="https://twitter.com/ENSIIE/status/1462783335479062534">Tweet</a>
 
 I was the **project manager** and **lead 3D artist** during this project. You can see our game's itch.io page <a href="https://biscuitprime.itch.io/brocante-coeurs-brises">here</a>.
-
+<br>
+<br>
 
 ### 🍬 Boris & la Chocolaterie
 
@@ -68,7 +71,16 @@ A 2D-plateformer arcade game where you have to collect points to win. Try to esc
 The game was made as part of a marketing stunt for the <a href="http://bda-tmsp.fr/">BDA</a>'s party on the theme of _Charlie and the Chocolate Factory_. It was designed to be played on an arcade, with leaderboards (not included in itch.io version).
 
 I was the **project manager** and **lead developper** during this project. You can see our game's itch.io page <a href="https://biscuitprime.itch.io/boris-la-chocolaterie">here</a>.
+<br>
+<br>
 
+### 🐊 Akkith's Journey
+
+Akkith's Journey is an **in-development** simple event/turn-based game developped in Java. Throught a console, live an adventure as Akkith, a warrior of Terra trying to cross the deadly land of Sip Eort to make it back to the Golden Armies of Light.
+
+You can view the game's github page <a href="https://github.com/BiscuitPrime/Akkith-Journey">here</a>
+<br>
+<br>
 
 ### 🌙 Fly me to the moon
 

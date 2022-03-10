@@ -33,7 +33,11 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 
 ### ⚔️ Tank A Faire 
 
+A 3D top-down, 2-player arcade game where you play as a tank against your adversary. 
+
 A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was the *3D Artist*. 
+
+I was the **lead 3D artist** during this project. You can play our game <a href="">here</a>.
 
 *TO BE UPDATED, sorry* 😢
 
@@ -57,7 +61,9 @@ I was the **project manager** and **lead 3D artist** during this project. You ca
 
 ### 🍬 Boris & la Chocolaterie
 
-A 2D-plateformer arcade game where you have to collect points to win.
+A 2D-plateformer arcade game where you have to collect points to win. Try to escape the chocolate factory to earn points !
+
+The game was made as part of a marketing stunt for the <a href="">BDA</a>'s party on the theme of _Charlie and the Chocolate Factory_. It was designed to be played on an arcade, with leaderboards (not included in itch.io version).
 
 I was the **project manager** and **lead developper** during this project. You can see our game's itch.io page <a href="https://biscuitprime.itch.io/boris-la-chocolaterie">here</a>.
 

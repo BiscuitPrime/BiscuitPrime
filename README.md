@@ -65,7 +65,7 @@ I was the **project manager** and **lead 3D artist** during this project. You ca
 
 A 2D-plateformer arcade game where you have to collect points to win. Try to escape the chocolate factory to earn points !
 
-The game was made as part of a marketing stunt for the <a href="">BDA</a>'s party on the theme of _Charlie and the Chocolate Factory_. It was designed to be played on an arcade, with leaderboards (not included in itch.io version).
+The game was made as part of a marketing stunt for the <a href="http://bda-tmsp.fr/">BDA</a>'s party on the theme of _Charlie and the Chocolate Factory_. It was designed to be played on an arcade, with leaderboards (not included in itch.io version).
 
 I was the **project manager** and **lead developper** during this project. You can see our game's itch.io page <a href="https://biscuitprime.itch.io/boris-la-chocolaterie">here</a>.
 

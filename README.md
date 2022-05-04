@@ -74,6 +74,14 @@ I was the **project manager** and **lead developper** during this project. You c
 <br>
 <br>
 
+### 🚗 Quadrant-A
+
+A small isometric web game designed around the concept of moving cars. Allow them to cross safely ! 
+
+Realised under 2 days, the aim was to make a quick, working and overall midly fun game. I was the **lead developper** and **lead artist** during this project. All assets were hand-made. You can see my game's itch.io page <a href="">here</a>
+<br>
+<br>
+
 ### 🐊 Akkith's Journey
 
 Akkith's Journey is an **in-development** simple event/turn-based game developped in Java. Throught a console, live an adventure as Akkith, a warrior of Terra trying to cross the deadly land of Sip Eort to make it back to the Golden Armies of Light.

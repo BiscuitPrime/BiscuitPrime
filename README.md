@@ -45,7 +45,7 @@ I was the **lead 3D artist** during this project. You can play our game <a href=
 
 ### 🦎 Geckolot
 
-![logo](https://user-images.githubusercontent.com/74375728/157636719-e784e7cd-ea56-473e-a393-a37fa64d5585.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/74375728/157636719-e784e7cd-ea56-473e-a393-a37fa64d5585.gif"></p>
 
 A 2-player plateformer game developed as part of the <a href="https://globalgamejam.org/">**Global GameJam 2022**</a> where you play either as an enthusiastic attractive Axolotl or a shy repulsive Gecko, following the theme of **Duality**.
 
@@ -76,9 +76,11 @@ I was the **project manager** and **lead developper** during this project. You c
 
 ### 🚗 Quadrant-A
 
+<p align="center"><img width="430" height="300" src="https://user-images.githubusercontent.com/74375728/167808755-b4dcee5d-d92b-44bc-9f13-41a5a3355d7c.png"></p>
+
 A small isometric web game designed around the concept of moving cars. Allow them to cross safely ! 
 
-Realised under 2 days, the aim was to make a quick, working and overall midly fun game. I was the **lead developper** and **lead artist** during this project. All assets were hand-made. You can see my game's itch.io page <a href="">here</a>
+Realised under 2 days, the aim was to make a quick, working and overall midly fun game. I was the **lead developper** and **lead artist** during this project. All assets were hand-made. You can see my game's itch.io page <a href="https://biscuitprime.itch.io/quadrant-a">here</a>
 <br>
 <br>
 

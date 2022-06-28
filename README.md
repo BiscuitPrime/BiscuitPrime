@@ -74,6 +74,14 @@ I was the **project manager** and **lead developper** during this project. You c
 <br>
 <br>
 
+### :octopus: Adventures Under the Sea
+
+A small isometric turn-based game, developed as part of our <a href="https://www.telecom-sudparis.eu">school</a>'s C++ course. Made over two weeks, using *Visual Studio*. Done entirely in **C++**, using the **CMake**, **pugixml**, **sfml** and **DearImGui** librairies.
+
+You can view the game's github page <a href="https://github.com/BiscuitPrime/Adventures-Under-The-Sea">here</a>
+<br>
+<br>
+
 ### 🚗 Quadrant-A
 
 <p align="center"><img width="430" height="300" src="https://user-images.githubusercontent.com/74375728/167808755-b4dcee5d-d92b-44bc-9f13-41a5a3355d7c.png"></p>

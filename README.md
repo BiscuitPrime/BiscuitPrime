@@ -88,7 +88,15 @@ Realised under 2 days, the aim was to make a quick, working and overall midly fu
 
 Akkith's Journey is an **in-development** simple event/turn-based game developped in Java. Throught a console, live an adventure as Akkith, a warrior of Terra trying to cross the deadly land of Sip Eort to make it back to the Golden Armies of Light.
 
-You can view the game's github page <a href="https://github.com/BiscuitPrime/Akkith-Journey">here</a>
+I am the **lead developper** during this project. You can view the game's github page <a href="https://github.com/BiscuitPrime/Akkith-Journey">here</a>
+<br>
+<br>
+
+### :gun: Magnuon's Fall
+
+Magnuon's Fall is an **in-development** FPS game made in **Unity**.
+
+I am the **lead developper** and **lead artist** during this project. You can view the game's github page <a href="https://github.com/BiscuitPrime/Magnuon-s-Fall">here</a>
 <br>
 <br>
 

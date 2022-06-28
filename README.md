@@ -31,18 +31,6 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 
 ## ===== Games 🎮 =====
 
-### ⚔️ Tank A Faire 
-
-A 3D top-down, 2-player arcade game where you play as a tank against your adversary. 
-
-A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was the *3D Artist*. 
-
-I was the **lead 3D artist** during this project. You can play our game <a href="">here</a>. You can view our game's github <a href="https://github.com/YelloowBlitz/TankAFaire">here</a>.
-
-*TO BE UPDATED, sorry* 😢
-<br>
-<br>
-
 ### 🦎 Geckolot
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74375728/157636719-e784e7cd-ea56-473e-a393-a37fa64d5585.gif"></p>
@@ -61,6 +49,18 @@ The game was made part of the <a href="https://www.ensiie.fr/unijam-2021/">**202
 Tweet from the organisator of the jam : <a href="https://twitter.com/ENSIIE/status/1462783335479062534">Tweet</a>
 
 I was the **project manager** and **lead 3D artist** during this project. You can see our game's itch.io page <a href="https://biscuitprime.itch.io/brocante-coeurs-brises">here</a>.
+<br>
+<br>
+
+### ⚔️ Tank A Faire 
+
+A 3D top-down, 2-player arcade game where you play as a tank against your adversary. 
+
+A 2-player arcade game made for the **2021 Soirée Mintech**, where I mainly was the *3D Artist*. 
+
+I was the **lead 3D artist** during this project. You can play our game <a href="">here</a>. You can view our game's github <a href="https://github.com/YelloowBlitz/TankAFaire">here</a>.
+
+*TO BE UPDATED, sorry* 😢
 <br>
 <br>
 

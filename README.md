@@ -4,9 +4,8 @@
 
 Hello, my name is Henri NOMICO, I am a french engineering student at <a href="https://www.telecom-sudparis.eu/">**Télécom Sudparis**</a> 💻 ! I am currently learning many programming languages such as Bash, C, C#, Python, Java, PHP and HTML, as well as telecomunication and maths. I yearn to be a game developer in the future !
 
-Don't forget to visit my website for a more <a href="https://biscuitprime.github.io/">thorough</a> look at my works !
-<br>
-<br>
+#### Don't forget to visit my <a href="https://biscuitprime.github.io/">website</a> for a more thorough look at my works !
+
 
 ## My hobbies 🍰
 

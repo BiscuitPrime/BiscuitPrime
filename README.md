@@ -3,6 +3,8 @@
 ## About me 🍪
 
 Hello, my name is Henri NOMICO, I am a french engineering student at <a href="https://www.telecom-sudparis.eu/">**Télécom Sudparis**</a> 💻 ! I am currently learning many programming languages such as Bash, C, C#, Python, Java, PHP and HTML, as well as telecomunication and maths. I yearn to be a game developer in the future !
+
+Don't forget to visit my website for a more <a href="https://biscuitprime.github.io/">thorough</a> look at my works !
 <br>
 <br>
 
@@ -10,7 +12,7 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 
  🎮 - Creating games that are fun to play is what I thrive for.
  
- 🧊 - I am the president of Télécom Sudparis' <a href="https://www.youtube.com/channel/UCT-08PN1bcBDCU1GrhAOTGw">**The RIG**</a> (3D modelisation club), and quite enjoy making 3D art and assets. Some of my animations can be found <a href="https://www.youtube.com/channel/UCwP2YVkU4HxBgjXYJrWn_MA">here</a> !
+ 🧊 - I am the president of Télécom Sudparis' <a href="https://www.youtube.com/channel/UCT-08PN1bcBDCU1GrhAOTGw">**The RIG**</a> (3D modelisation club), and quite enjoy making 3D art and assets. Some of my personal animations can be found <a href="https://www.youtube.com/channel/UCwP2YVkU4HxBgjXYJrWn_MA">here</a> !
  
  🎲 - I participated in some game jams with much pleasure as they were very enjoyable experiences. Check out our games below !
 <br>

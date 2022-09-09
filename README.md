@@ -21,6 +21,8 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 
  🟧 <a href="https://globalgamejam.org/" target="_blank">**Global GameJam 2022**</a> : <a href="https://github.com/Hugo-Carbiener/Geckolot">*Geckolot*</a> | **Project Manager & Lead Developer**
  
+ :purple_square: <a href="https://itch.io/jam/gmtk-jam-2022" target="_blank">**Game Maker's Toolkit GameJam 2022**</a> : <a href="https://nethos.itch.io/dicey-doom">*Dicey Doom*</a> | **Dev & Lead 3D Artist**
+ 
  🟥 <a href="https://itch.io/jam/unijam2021" target="_blank">**Unijam 2021**</a> : <a href="https://biscuitprime.itch.io/brocante-coeurs-brises">*Brocante & Coeurs Brisés*</a> | **Project Manager & Lead 3D Artist**
  
  🟦 <a href="https://itch.io/jam/unijam2020" target="_blank">**Unijam 2020**</a> : <a href="https://senydesu.itch.io/fly-me-to-the-moon">*Fly Me to the Moon*</a> | **Sound Designer & Graphist**
@@ -39,6 +41,16 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 A 2-player plateformer game developed as part of the <a href="https://globalgamejam.org/" target="_blank">**Global GameJam 2022**</a> where you play either as an enthusiastic attractive Axolotl or a shy repulsive Gecko, following the theme of **Duality**.
 
 I was the **project manager** and **lead developper** during this 48h jam. You can play our game <a href="https://mathieu-coutant.itch.io/geckolot">**here**</a>
+<br>
+<br>
+
+### :game_die: Dicey Doom
+
+<p align="center"><img width="430" height="400" src="https://user-images.githubusercontent.com/74375728/189395944-984b620d-891c-40d4-9eed-f8aad6efeb67.jpg"></p>
+
+Dicey Doom is an FPS where you roll dices to power-up your gun ! Developed as part of the <a href="" target="_blank">**GMTK GameJam 2022**</a>.
+
+I was the **Lead 3D Artist** and a **Developer** during this jam. You can play our game <a href="https://nethos.itch.io/dicey-doom">**here**</a>
 <br>
 <br>
 

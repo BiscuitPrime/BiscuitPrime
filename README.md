@@ -2,7 +2,7 @@
 
 ## About me 🍪
 
-Hello, my name is Henri NOMICO, I am a french engineering student at <a href="https://www.telecom-sudparis.eu/">**Télécom Sudparis**</a> 💻 ! I am currently learning many programming languages such as Bash, C, C#, Python, Java, PHP and HTML, as well as telecomunication and maths. I yearn to be a game developer in the future !
+Hello, my name is Henri NOMICO, I am a french engineering student at <a href="https://www.telecom-sudparis.eu/">**Télécom Sudparis**</a> in the <a href="https://www.telecom-sudparis.eu/formation/jeux-videos-interactions-collaborations-numeriques/">Video Game</a> course 💻 ! I am currently learning many programming languages such as Bash, C, C#, Python, Java, PHP and HTML, as well as telecomunication and maths. I yearn to be a game developer in the future !
 
 #### Don't forget to visit my <a href="https://biscuitprime.github.io/">website</a> for a more thorough look at my works !
 
@@ -92,6 +92,16 @@ I was the **project manager** and **lead developper** during this project. You c
 A small isometric turn-based game, developed as part of our <a href="https://www.telecom-sudparis.eu">school</a>'s C++ course. Made over two weeks, using *Visual Studio*. Done entirely in **C++**, using the **CMake**, **pugixml**, **sfml** and **DearImGui** librairies.
 
 You can view the game's github page <a href="https://github.com/BiscuitPrime/Adventures-Under-The-Sea" target="_blank">here</a>
+<br>
+<br>
+
+### :interrobang: The Saumur Test
+
+<p align="center"><img width="430" height="400" src="https://user-images.githubusercontent.com/74375728/189663196-c3a5f33a-a212-4528-94ce-8338ad831253.png"></p>
+
+An FPS horror experience, developed throughtout summer 2022 as an experience in FPS and horror genre. Done in **Unity**, I was the sole contributor on the project.
+
+You can view the game's itchio page <a href="https://biscuitprime.itch.io/the-saumur-test">here</a>
 <br>
 <br>
 

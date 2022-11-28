@@ -19,6 +19,8 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 
 ## Game Jams 🧁
 
+ 🟩 <a href="https://itch.io/jam/unijam2022" target="_blank">**Unijam 2022**</a> : <a href="https://skizaat.itch.io/lost-depths">Lost in the Depths</a> | **Developer**
+
  🟧 <a href="https://globalgamejam.org/" target="_blank">**Global GameJam 2022**</a> : <a href="https://github.com/Hugo-Carbiener/Geckolot">*Geckolot*</a> | **Project Manager & Lead Developer**
  
  :purple_square: <a href="https://itch.io/jam/gmtk-jam-2022" target="_blank">**Game Maker's Toolkit GameJam 2022**</a> : <a href="https://nethos.itch.io/dicey-doom">*Dicey Doom*</a> | **Dev & Lead 3D Artist**
@@ -51,6 +53,16 @@ I was the **project manager** and **lead developper** during this 48h jam. You c
 Dicey Doom is an FPS where you roll dices to power-up your gun ! Developed as part of the <a href="" target="_blank">**GMTK GameJam 2022**</a>.
 
 I was the **Lead 3D Artist** and a **Developer** during this jam. You can play our game <a href="https://nethos.itch.io/dicey-doom">**here**</a>
+<br>
+<br>
+
+### ⛏️ Lost in the Depths
+
+<p align="center"><img width="430" height="400" src="https://user-images.githubusercontent.com/74375728/204226624-8a228b36-5241-4ca6-8c08-f9b0fcaf8c92.png"></p>
+
+Lost in the Depths is a 2D mining game where you search the depths for a long lost crystal ! Developed as part of the <a href="https://itch.io/jam/unijam2022" target="_blank">**Unijam 2022**</a>.
+
+I was the **Developer** during this jam. You can play our game <a href="https://skizaat.itch.io/lost-depths">**here**</a>
 <br>
 <br>
 

@@ -11,13 +11,15 @@ Hello, my name is Henri NOMICO, I am a french engineering student at <a href="ht
 
  🎮 - Creating games that are fun to play is what I thrive for.
  
- 🧊 - I am the president of Télécom Sudparis' <a href="https://www.youtube.com/channel/UCT-08PN1bcBDCU1GrhAOTGw">**The RIG**</a> (3D modelisation club), and quite enjoy making 3D art and assets. Some of my personal animations can be found <a href="https://www.youtube.com/channel/UCwP2YVkU4HxBgjXYJrWn_MA">here</a> !
+ 🧊 - I was the president of Télécom Sudparis' <a href="https://www.youtube.com/channel/UCT-08PN1bcBDCU1GrhAOTGw">**The RIG**</a> (3D modelisation club), and quite enjoy making 3D art and assets. Some of my personal animations can be found <a href="https://www.youtube.com/channel/UCwP2YVkU4HxBgjXYJrWn_MA">here</a> !
  
  🎲 - I participated in some game jams with much pleasure as they were very enjoyable experiences. Check out our games below !
 <br>
 <br>
 
 ## Game Jams 🧁
+
+ 🟫 <a href="https://itch.io/jam/gmtk-2023" target="_blank">**Game Maker's Toolkit GameJam 2023**</a> : <a href="https://biscuitprime.itch.io/inverse">Inverse</a> | **Lead Developer** and **Project Manager**
 
  🟩 <a href="https://itch.io/jam/unijam2022" target="_blank">**Unijam 2022**</a> : <a href="https://skizaat.itch.io/lost-depths">Lost in the Depths</a> | **Developer**
 

@@ -2,7 +2,7 @@
 
 ## About me 🍪
 
-Hello, my name is Henri NOMICO, I am a french engineering student at <a href="https://www.telecom-sudparis.eu/">**Télécom Sudparis**</a> in the <a href="https://www.telecom-sudparis.eu/formation/jeux-videos-interactions-collaborations-numeriques/">Video Game</a> course 💻 ! I am currently learning many programming languages such as Bash, C, C#, Python, Java, PHP and HTML, as well as telecomunication and maths. I yearn to be a game developer in the future !
+Hello, my name is Henri NOMICO, I am a french software engineer. I've graduated from <a href="https://www.telecom-sudparis.eu/">**Télécom Sudparis**</a> in the <a href="https://www.telecom-sudparis.eu/formation/jeux-videos-interactions-collaborations-numeriques/">Video Game</a> course 💻 ! I am currently learning and working with many programming languages such as Bash, C, C#, Python, Java, PHP and HTML, as well as telecomunication and maths. I yearn to be a game developer in the future !
 
 #### Don't forget to visit my <a href="https://biscuitprime.github.io/">website</a> for a more thorough look at my works !
 
